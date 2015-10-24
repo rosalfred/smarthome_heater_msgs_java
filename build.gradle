@@ -43,7 +43,7 @@ project.catkin.tree.generate()
 defaultTasks 'tasks'
 
 allprojects {
-    group 'com.alfred.ros'
+    group 'org.ros.rosjava_messages'
     version = project.catkin.pkg.version
 }
 
