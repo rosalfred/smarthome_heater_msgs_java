@@ -2,8 +2,8 @@
 Changelog for package smarthome_heater_msgs_java
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.1.19 (2016-05-31)
+-------------------
 * Rename package to smarthome_heater_msgs_java
 * Update catkin dependencies
 * Add license
