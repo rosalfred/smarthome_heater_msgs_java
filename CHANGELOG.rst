@@ -2,8 +2,8 @@
 Changelog for package smarthome_heater_msgs_java
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.1.20 (2016-06-01)
+-------------------
 * Change package generation to genjava
 * Contributors: Erwan Le Huitouze
 
