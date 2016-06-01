@@ -1,5 +1,3 @@
-/bin
-/build
-/.gradle
-/smarthome_heater_msgs/build/
-*~
+.gradle
+build
+
