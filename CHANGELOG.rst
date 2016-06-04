@@ -2,8 +2,8 @@
 Changelog for package smarthome_heater_msgs_java
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.1.21 (2016-06-04)
+-------------------
 * Add roslib to packages dependencies
 * Add rosjava_messages to package dependencies
 * Add rosdistro dependency (needed by genjava)
